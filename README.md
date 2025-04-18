@@ -40,7 +40,7 @@ Ensure you have **Go 1.18+** installed.
 ```sh
 git clone https://github.com/lilsheepyy/pcap-heatmap
 cd pcap-heatmap
-go run main.go -pcap=/path/to/your/file.pcap
+go run main.go -pcap=Example.pcap
 ```
 
 ## Options
