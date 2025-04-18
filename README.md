@@ -48,3 +48,25 @@ go run heatmap.go -pcap=traffic.pcap -destip=192.168.1.1 -export=output.json
 ```
 ---
 
+This command will:
+
+- Analyze the `traffic.pcap` file
+- Filter traffic to only include packets with destination IP `192.168.1.1`
+- Export the results as a **JSON** file `output.json`
+
+---
+
+## Output
+
+The program will print heatmaps of the top results for the following:
+
+- **Source IPs**
+- **Source Ports**
+- **Packet Sizes**
+- **TTL (Time-to-Live) values**
+- **Destination IPs**
+- **Destination Ports**
+- **Top Payloads (hex, truncated)**
+- **Top TCP Flags**
+- **Top Protocols**
+
