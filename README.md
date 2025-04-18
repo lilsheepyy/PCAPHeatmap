@@ -23,16 +23,19 @@ With **PCAPHeatmap**, users can examine the contents of **network traffic**, fil
 
 ---
 
-## Installation
-
-Ensure you have **Go 1.18+** installed.
-
 ### Dependencies
 
 To install the necessary dependencies, run:
 
 ```sh
 go get github.com/google/gopacket
+```
+
+---
+
+## Installation
+
+Ensure you have **Go 1.18+** installed.
 
 ```sh
 git clone https://github.com/lilsheepyy/pcap-heatmap
