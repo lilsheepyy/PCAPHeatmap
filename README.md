@@ -85,4 +85,5 @@ The program will print heatmaps of the top results for the following:
 ## Contact
 
 - Telegram: [t.me/sheepthesillycat](https://t.me/sheepthesillycat)
+- Telegram Channel: [t.me/sheepsbio](https://t.me/sheepsbio)
 - Website: [sheepyy.love](https://sheepyy.love)
