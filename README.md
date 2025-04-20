@@ -84,8 +84,10 @@ The program will print heatmaps of the top results for the following:
 
 ## Images
 
-![Preview](https://cdn.discordapp.com/attachments/1351649169051488279/1362930133492830249/image.png?ex=68058099&is=68042f19&hm=3f71ef62b3852b1aa4097f713b1999d2e79749404e2106b66d5cff34eb2745ff)
+![Preview](https://i.imgur.com/A5C1rWu.png
+![Preview](https://i.imgur.com/VHAXlHp.png)
 
+---
 
 ## Contact
 
