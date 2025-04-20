@@ -84,7 +84,7 @@ The program will print heatmaps of the top results for the following:
 
 ## Images
 
-![Preview](https://i.imgur.com/A5C1rWu.png
+![Preview](https://i.imgur.com/A5C1rWu.png)
 ![Preview](https://i.imgur.com/VHAXlHp.png)
 
 ---
